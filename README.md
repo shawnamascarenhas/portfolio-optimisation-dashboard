@@ -1,5 +1,10 @@
 # Portfolio Optimisation & Investment Analytics Dashboard
 
+[![CI](https://github.com/shawnamascarenhas/portfolio-optimisation-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/shawnamascarenhas/portfolio-optimisation-dashboard/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Coverage](https://img.shields.io/badge/coverage-92.43%25-brightgreen)](docs/model_validation.md)
+
 An interactive investment-analysis application that transforms historical prices
 into risk analytics, constrained portfolio allocations, an efficient frontier, and
 a chronological out-of-sample strategy comparison.
